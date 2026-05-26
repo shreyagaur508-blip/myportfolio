@@ -1,0 +1,80 @@
+.bg-common
+{
+    background-color: #AB0C2F;
+}
+.navbar-nav li
+{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.gap{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.text-justify
+{
+    text-align: justify;
+}
+.odd
+{
+    background-color: red;
+
+
+}
+.border-white{
+    border: 1px solid white;
+}
+/*academic section*/
+body{
+    background: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.academic-section{
+    background-color: #ffffff;
+}
+
+.main-title{
+    color: #AB0C2F;
+    font-size: 42px;
+}
+
+.academic-card{
+    border-radius: 20px;
+    transition: 0.4s ease;
+    background: #fff;
+}
+
+.academic-card:hover{
+    transform: translateY(-10px);
+}
+
+.icon-box{
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    background: #AB0C2F;
+    color: white;
+    border-radius: 50%;
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.college-name{
+    color: #666;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.percentage{
+    color: #AB0C2F;
+    font-size: 45px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.card-body{
+    padding: 40px 25px;
+}
